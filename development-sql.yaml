@@ -1,0 +1,9 @@
+limit.maxCustomSearchAttributesPerType:
+  - value:
+      Text: 100
+      Keyword: 100
+      Int: 100
+      Double: 100
+      Bool: 100
+      Datetime: 100
+    constraints: {}
